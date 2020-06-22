@@ -31,6 +31,11 @@ class Track extends React.Component {
 					<h3>{this.props.track.name}</h3>
 					<p>{this.props.track.artist} | {this.props.track.album}</p>
 				</div>
+				<div className="audio-container">
+						<audio className="audio" controls="controls">
+							<source type="audio/mpeg" src={this.props.track.previewUrl} />
+						</audio>
+				</div>
 				{this.renderAction()}
 			</div>
 		)

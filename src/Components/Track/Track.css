@@ -12,6 +12,7 @@
     border: 0px;
     background-color: rgba(0, 0, 0, 0);
     color: #fff;
+    padding-left: 20px;
   }
   
   .Track-action:hover {
@@ -34,4 +35,11 @@
     font-size: .83rem;
     font-weight: 300;
     color: rgba(256, 256, 256, 0.8);
+  }
+
+  audio { 
+    width: 180px; 
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.8);
+    border-radius: 90px;
+    transform: scale(.8);
   }
