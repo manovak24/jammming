@@ -51,8 +51,8 @@ class App extends React.Component {
         })
       });
     } else {
-      alert("Playlist empty");
-    }
+      alert("Playlist Empty");
+    }  
   }
 
   search(term) {
