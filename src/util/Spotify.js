@@ -1,4 +1,4 @@
-const clientId = 'fa7577844db844e7980083c35b405dd9';
+const clientId = 'REACT_APP_SPOTIFY_API_KEY';
 const redirectUri = 'https://manovak24.github.io/jammming/';
 let accessToken;
 
