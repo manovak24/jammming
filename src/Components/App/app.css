@@ -10,7 +10,7 @@ html {
 
 h1 {
   padding: 1.5rem 0;
-  background-color: #010c3f;
+  background-color: #0b25bb;
   text-align: center;
   font-family: 'Poppins', sans-serif;
   font-size: 1.88rem;
@@ -20,7 +20,7 @@ h1 {
 }
 
 h1 .highlight {
-  color: #6c41ec;
+  color: #3fb4e2;
 }
 
 h2 {
@@ -47,8 +47,12 @@ h2 {
 }
 
 @media only screen and (max-width: 1020px) {
+  .App {
+    padding: 0 10% 10% 10%;
+  }
   .App-playlist {
     align-items: center;
     flex-direction: column;
+    
   }
 }
