@@ -1,6 +1,6 @@
 const clientId = process.env.REACT_APP_SPOTIFY_API_KEY;
-//const redirectUri = 'https://manovak24.github.io/jammming/';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://manovak24.github.io/jammming/';
+//const redirectUri = 'http://localhost:3000/';
 let accessToken;
 
 const Spotify = {
