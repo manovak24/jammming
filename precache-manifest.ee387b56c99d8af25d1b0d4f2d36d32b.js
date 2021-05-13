@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecb79cf145cded16352647acbb81dead",
+    "revision": "da0378ac15e86f01c351b87f71864cff",
     "url": "/jammming/index.html"
   },
   {
-    "revision": "41e37cc2f5563ab586b2",
-    "url": "/jammming/static/css/main.3ac2991b.chunk.css"
+    "revision": "e95a4672efb176ac71ae",
+    "url": "/jammming/static/css/main.cddd6bef.chunk.css"
   },
   {
     "revision": "43bb5cec1544d9163fd4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jammming/static/js/2.074bae49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41e37cc2f5563ab586b2",
+    "revision": "e95a4672efb176ac71ae",
     "url": "/jammming/static/js/main.d6fdb40e.chunk.js"
   },
   {
