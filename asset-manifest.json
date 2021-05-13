@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jammming/static/css/main.8d9eacf4.chunk.css",
-    "main.js": "/jammming/static/js/main.2e99f3dc.chunk.js",
-    "main.js.map": "/jammming/static/js/main.2e99f3dc.chunk.js.map",
+    "main.css": "/jammming/static/css/main.629217eb.chunk.css",
+    "main.js": "/jammming/static/js/main.d6fdb40e.chunk.js",
+    "main.js.map": "/jammming/static/js/main.d6fdb40e.chunk.js.map",
     "runtime-main.js": "/jammming/static/js/runtime-main.34685740.js",
     "runtime-main.js.map": "/jammming/static/js/runtime-main.34685740.js.map",
     "static/js/2.074bae49.chunk.js": "/jammming/static/js/2.074bae49.chunk.js",
     "static/js/2.074bae49.chunk.js.map": "/jammming/static/js/2.074bae49.chunk.js.map",
     "index.html": "/jammming/index.html",
-    "precache-manifest.b2eb78dc54b5b5b15df77a7f4e8f54c8.js": "/jammming/precache-manifest.b2eb78dc54b5b5b15df77a7f4e8f54c8.js",
+    "precache-manifest.2861ee04eb69334d72ce5fe2355ce82c.js": "/jammming/precache-manifest.2861ee04eb69334d72ce5fe2355ce82c.js",
     "service-worker.js": "/jammming/service-worker.js",
-    "static/css/main.8d9eacf4.chunk.css.map": "/jammming/static/css/main.8d9eacf4.chunk.css.map",
+    "static/css/main.629217eb.chunk.css.map": "/jammming/static/css/main.629217eb.chunk.css.map",
     "static/js/2.074bae49.chunk.js.LICENSE.txt": "/jammming/static/js/2.074bae49.chunk.js.LICENSE.txt",
     "static/media/app.css": "/jammming/static/media/background_photo_desktop.bf8d702f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.34685740.js",
     "static/js/2.074bae49.chunk.js",
-    "static/css/main.8d9eacf4.chunk.css",
-    "static/js/main.2e99f3dc.chunk.js"
+    "static/css/main.629217eb.chunk.css",
+    "static/js/main.d6fdb40e.chunk.js"
   ]
 }
