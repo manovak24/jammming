@@ -9,7 +9,7 @@ html {
 }
 
 h1 {
-  padding: 1.5rem 0;
+  padding: .77rem 0;
   background-color: #0b25bb;
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -50,4 +50,31 @@ h1 .highlight {
     flex-direction: column;
     
   }
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #0b25bb;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 1.5rem 0;
+  height: 3rem;
+}
+
+.footer a {
+  padding: 1rem;
+}
+
+.footer p {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.social {
+  color: white;
 }

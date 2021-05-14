@@ -4,6 +4,8 @@ import SearchBar from '../../Components/SearchBar/SearchBar';
 import SearchResults from '../SearchResults/SearchResults';
 import Playlist from '../Playlist/Playlist';
 import Spotify from '../../util/Spotify';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 class App extends React.Component {
@@ -64,20 +66,33 @@ class App extends React.Component {
   render() {
     return (
       <div>
-      <h1>MUSIC<span className="highlight">for</span>YOU - (<span className="highlight">by</span>YOU)</h1>
-      <div className="App">
-        <SearchBar onSearch={this.search} />
-        <div className="App-playlist">
-          <SearchResults searchResults={this.state.searchResults}
-            onAdd={this.addTrack} />
-          <Playlist playlistName={this.state.playlistName}
-            playlistTracks={this.state.playlistTracks}
-            onRemove={this.removeTrack}
-            onNameChange={this.updatePlaylistName}
-            onSave={this.savePlaylist} />
+        <h1>MUSIC<span className="highlight">for</span>YOU - (<span className="highlight">by</span>YOU)</h1>
+        <div className="App">
+          <SearchBar onSearch={this.search} />
+          <div className="App-playlist">
+            <SearchResults searchResults={this.state.searchResults}
+              onAdd={this.addTrack} />
+            <Playlist playlistName={this.state.playlistName}
+              playlistTracks={this.state.playlistTracks}
+              onRemove={this.removeTrack}
+              onNameChange={this.updatePlaylistName}
+              onSave={this.savePlaylist} />
+          </div>
         </div>
+        
+        <div className="footer">
+            <a href="https://www.linkedin.com/in/mark-novak-56679949/" className="linkedin social" rel="noopener noreferrer" target="_blank">
+                  <FontAwesomeIcon icon={faLinkedin} size="2x" />
+            </a>
+            <a href="https://manovak24.github.io/" rel="noopener noreferrer" target="_blank">
+              <p>Mark Novak</p>
+            </a>
+            
+            <a href="https://github.com/manovak24" className="github social" rel="noopener noreferrer" target="_blank">
+                  <FontAwesomeIcon icon={faGithub} size="2x" />
+            </a>
+          </div>
       </div>
-    </div>
     )
   }
 }
