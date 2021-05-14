@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jammming/static/css/main.0baf9827.chunk.css",
+    "main.css": "/jammming/static/css/main.f684594e.chunk.css",
     "main.js": "/jammming/static/js/main.b0ea72fb.chunk.js",
     "main.js.map": "/jammming/static/js/main.b0ea72fb.chunk.js.map",
     "runtime-main.js": "/jammming/static/js/runtime-main.34685740.js",
@@ -8,16 +8,16 @@
     "static/js/2.71499e33.chunk.js": "/jammming/static/js/2.71499e33.chunk.js",
     "static/js/2.71499e33.chunk.js.map": "/jammming/static/js/2.71499e33.chunk.js.map",
     "index.html": "/jammming/index.html",
-    "precache-manifest.d462301cf605f64c03659a2535f41d4a.js": "/jammming/precache-manifest.d462301cf605f64c03659a2535f41d4a.js",
+    "precache-manifest.7f5feefba7fe3754cb0cd0cad116a08f.js": "/jammming/precache-manifest.7f5feefba7fe3754cb0cd0cad116a08f.js",
     "service-worker.js": "/jammming/service-worker.js",
-    "static/css/main.0baf9827.chunk.css.map": "/jammming/static/css/main.0baf9827.chunk.css.map",
+    "static/css/main.f684594e.chunk.css.map": "/jammming/static/css/main.f684594e.chunk.css.map",
     "static/js/2.71499e33.chunk.js.LICENSE.txt": "/jammming/static/js/2.71499e33.chunk.js.LICENSE.txt",
     "static/media/app.css": "/jammming/static/media/background_photo_desktop.bf8d702f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.34685740.js",
     "static/js/2.71499e33.chunk.js",
-    "static/css/main.0baf9827.chunk.css",
+    "static/css/main.f684594e.chunk.css",
     "static/js/main.b0ea72fb.chunk.js"
   ]
 }
