@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1329e6970faf6079082bdd1d06a2c027",
+    "revision": "055f62d7b516493d0729d15c59955b95",
     "url": "/jammming/index.html"
   },
   {
