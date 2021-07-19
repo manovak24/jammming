@@ -21,49 +21,41 @@
 * JavaScript
 * HTML
 * CSS
-* React Bootstrap
-* React Router
-* React Icons
-* EmailJS
-* Sweet Alert
-* Google Maps
-* Slick Carousel
+* Spotify API
 
 
 ## Setup
-Please follow link to website - https://manovak24.github.io/
+Please follow link to website - https://manovak24.github.io/jammming/
 
 ## Code Examples
 ```js
-return (
-        <div className="slider-container">
-            <Slider {...settings}>
-                {images.map((img, idx) => (
-                    <div className={idx === imageIndex ? "slide active-slide": "slide"}>
-                        <p>{img.title}</p>
-                        <a href={img.source} rel="noopener noreferrer" target="_blank">
-                            <img src={img.image} alt="alt" />
-                        </a>
-                        <a className="slide-link" href={img.source} rel="noopener noreferrer" target="_blank">Click here to launch site</a>
-                    </div>
-                ))}
-            </Slider>
-        </div>
-    );
+    render() {
+		return (
+			<div className="Playlist">
+				<input 
+				defaultValue={'New Playlist'} 
+				onChange={this.handleNameChange}
+				onKeyPress={event => {
+					if (event.key === "Enter") {
+						this.save();
+					}
+				}} />
+				<TrackList tracks={this.props.playlistTracks}
+					onRemove={this.props.onRemove}
+					isRemoval={true} />
+				<button className="Playlist-save" onClick={this.save}>SAVE TO SPOTIFY</button>
+			</div>
+		)
+	}
  ```   
 
 ## Features
-List of features ready and TODOs for future development
-* Featured projects slider on home page
-* Google Maps API to show current city location
-* Contact form email service via EmailJS
+List of features
+* Spotify API
+* Users can search music, create custom playlist and push to their Spotify account.
 
 To-do list:
 * Looking for feedback and suggestions!!
-
-## Status
-Project is: _in progress_
-> This will be an ongoing project with continuous improvements
 
 ## Contact
 Created by [@manovak24](https://github.com/manovak24) - feel free to contact me!
