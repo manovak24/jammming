@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jammming/static/css/main.11d9e9fc.chunk.css",
-    "main.js": "/jammming/static/js/main.40c6f227.chunk.js",
-    "main.js.map": "/jammming/static/js/main.40c6f227.chunk.js.map",
-    "runtime-main.js": "/jammming/static/js/runtime-main.34685740.js",
-    "runtime-main.js.map": "/jammming/static/js/runtime-main.34685740.js.map",
-    "static/js/2.71499e33.chunk.js": "/jammming/static/js/2.71499e33.chunk.js",
-    "static/js/2.71499e33.chunk.js.map": "/jammming/static/js/2.71499e33.chunk.js.map",
-    "index.html": "/jammming/index.html",
-    "precache-manifest.8236e6644be0764921701fdf50647644.js": "/jammming/precache-manifest.8236e6644be0764921701fdf50647644.js",
-    "service-worker.js": "/jammming/service-worker.js",
-    "static/css/main.11d9e9fc.chunk.css.map": "/jammming/static/css/main.11d9e9fc.chunk.css.map",
-    "static/js/2.71499e33.chunk.js.LICENSE.txt": "/jammming/static/js/2.71499e33.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/jammming/static/media/background_photo_desktop.bf8d702f.jpg"
+    "main.css": "/music_for_you/static/css/main.55771c7b.chunk.css",
+    "main.js": "/music_for_you/static/js/main.2e3b61d7.chunk.js",
+    "main.js.map": "/music_for_you/static/js/main.2e3b61d7.chunk.js.map",
+    "runtime-main.js": "/music_for_you/static/js/runtime-main.9b183682.js",
+    "runtime-main.js.map": "/music_for_you/static/js/runtime-main.9b183682.js.map",
+    "static/js/2.ecfb5e73.chunk.js": "/music_for_you/static/js/2.ecfb5e73.chunk.js",
+    "static/js/2.ecfb5e73.chunk.js.map": "/music_for_you/static/js/2.ecfb5e73.chunk.js.map",
+    "index.html": "/music_for_you/index.html",
+    "precache-manifest.3fd78ecbe0899ddfc764383c8a73b9ab.js": "/music_for_you/precache-manifest.3fd78ecbe0899ddfc764383c8a73b9ab.js",
+    "service-worker.js": "/music_for_you/service-worker.js",
+    "static/css/main.55771c7b.chunk.css.map": "/music_for_you/static/css/main.55771c7b.chunk.css.map",
+    "static/js/2.ecfb5e73.chunk.js.LICENSE.txt": "/music_for_you/static/js/2.ecfb5e73.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/music_for_you/static/media/background_photo_desktop.bf8d702f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34685740.js",
-    "static/js/2.71499e33.chunk.js",
-    "static/css/main.11d9e9fc.chunk.css",
-    "static/js/main.40c6f227.chunk.js"
+    "static/js/runtime-main.9b183682.js",
+    "static/js/2.ecfb5e73.chunk.js",
+    "static/css/main.55771c7b.chunk.css",
+    "static/js/main.2e3b61d7.chunk.js"
   ]
 }
