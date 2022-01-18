@@ -85,7 +85,7 @@ class App extends React.Component {
                   <FontAwesomeIcon icon={faLinkedin} size="2x" />
             </a>
             <a href="https://manovak24.github.io/" rel="noopener noreferrer" target="_blank">
-              <p>Mark Novak test</p>
+              <p>Mark Novak</p>
             </a>
             
             <a href="https://github.com/manovak24" className="github social" rel="noopener noreferrer" target="_blank">
