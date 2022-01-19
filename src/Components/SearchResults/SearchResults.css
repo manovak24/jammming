@@ -2,7 +2,7 @@
   overflow-y: scroll;
   width: 45%;
   height: 950px;
-  padding: .88rem;
+  padding: 2.27rem 1.16rem;
   background-color: rgba(1, 25, 131, 0.603);
   box-shadow: 0 4px 2px 2px #000000;
 }
@@ -10,6 +10,8 @@
 .results-title {
   font-size: 1.55rem;
   font-family: 'Poppins', sans-serif;
+  border-bottom: 1px solid #6f6f6f;
+  padding: 8px 0;
 }
 
 ::-webkit-scrollbar {
