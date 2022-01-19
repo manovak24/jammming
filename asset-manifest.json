@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music_for_you/static/css/main.d1bcbc47.chunk.css",
+    "main.css": "/music_for_you/static/css/main.1095a6a9.chunk.css",
     "main.js": "/music_for_you/static/js/main.cf1891c0.chunk.js",
     "main.js.map": "/music_for_you/static/js/main.cf1891c0.chunk.js.map",
     "runtime-main.js": "/music_for_you/static/js/runtime-main.085a143c.js",
@@ -8,16 +8,16 @@
     "static/js/2.0aaa0711.chunk.js": "/music_for_you/static/js/2.0aaa0711.chunk.js",
     "static/js/2.0aaa0711.chunk.js.map": "/music_for_you/static/js/2.0aaa0711.chunk.js.map",
     "index.html": "/music_for_you/index.html",
-    "precache-manifest.2de51488fcedb23bed85d8515bae2dc5.js": "/music_for_you/precache-manifest.2de51488fcedb23bed85d8515bae2dc5.js",
+    "precache-manifest.a2900b541add1890e879fac04568f754.js": "/music_for_you/precache-manifest.a2900b541add1890e879fac04568f754.js",
     "service-worker.js": "/music_for_you/service-worker.js",
-    "static/css/main.d1bcbc47.chunk.css.map": "/music_for_you/static/css/main.d1bcbc47.chunk.css.map",
+    "static/css/main.1095a6a9.chunk.css.map": "/music_for_you/static/css/main.1095a6a9.chunk.css.map",
     "static/js/2.0aaa0711.chunk.js.LICENSE.txt": "/music_for_you/static/js/2.0aaa0711.chunk.js.LICENSE.txt",
     "static/media/app.css": "/music_for_you/static/media/background_photo_desktop.bf8d702f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.085a143c.js",
     "static/js/2.0aaa0711.chunk.js",
-    "static/css/main.d1bcbc47.chunk.css",
+    "static/css/main.1095a6a9.chunk.css",
     "static/js/main.cf1891c0.chunk.js"
   ]
 }
